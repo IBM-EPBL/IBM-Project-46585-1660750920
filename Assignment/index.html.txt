@@ -3,12 +3,12 @@
 <div class="resume">
    <div class="resume_left">
      <div class="resume_profile">
-       <img src="image.jpeg"alt="profile_pic">
+       <img src="images.jpg">
      </div>
      <div class="resume_content">
        <div class="resume_item resume_info">
          <div class="title">
-           <p class="bold">Meenatchi O</p>
+           <p class="bold">Malathi P</p>
            <p class="regular">Software Developer</p>
          </div>
          <ul>
@@ -17,7 +17,7 @@
                <i class="fas fa-map-signs"></i>
              </div>
              <div class="data">
-               East street,kulasekaranpattinam<br />India
+               New street,Kulasekaranpattinam <br />India
              </div>
            </li>
            <li>
@@ -25,7 +25,7 @@
                <i class="fas fa-mobile-alt"></i>
              </div>
              <div class="data">
-               +91 6381141091
+               +91 7305168548
              </div>
            </li>
            <li>
@@ -33,7 +33,7 @@
                <i class="fas fa-envelope"></i>
              </div>
              <div class="data">
-               omeenatchi2001@gmail.com
+               malathisundari024@gmail.com
              </div>
            </li>
            <li>
@@ -41,7 +41,7 @@
                <i class="fab fa-weebly"></i>
              </div>
              <div class="data">
-               www.meenatchi.com
+               www.malathi.com
              </div>
            </li>
          </ul>
@@ -109,7 +109,7 @@
              </div>
              <div class="data">
                <p class="semi-bold">Facebook</p>
-               <p>Meenatchi@facebook</p>
+               <p>malathi@facebook</p>
              </div>
            </li>
            <li>
@@ -118,7 +118,7 @@
              </div>
              <div class="data">
                <p class="semi-bold">Twitter</p>
-               <p>Meenatchi@twitter</p>
+               <p>malathi@twitter</p>
              </div>
            </li>
            <li>
@@ -127,7 +127,7 @@
              </div>
              <div class="data">
                <p class="semi-bold">Youtube</p>
-               <p>Meenatchi@youtube</p>
+               <p>malathi@youtube</p>
              </div>
            </li>
            <li>
@@ -136,7 +136,7 @@
              </div>
              <div class="data">
                <p class="semi-bold">Linkedin</p>
-               <p>Meenatchi@linkedin</p>
+               <p>malathi@linkedin</p>
              </div>
            </li>
          </ul>
@@ -148,7 +148,7 @@
         <div class="title">
            <p class="bold">About us</p>
          </div>
-        <p>As I'm going to gratuate next year.obtaining a challenging position in a reputed organization where i can learn new skills,expand my knowledge and leverage my learning to provide my significant role towards the development of the company.</p>
+        <p>As I'm going to gratuate next year.obtaining a challenging position in a reputed organization where i can learn new skills,expand my knoeledge and leverage my learning to provide my significant role towards the development of the company.</p>
     </div>
     <div class="resume_item resume_work">
         <div class="title">
@@ -158,10 +158,11 @@
             <li>
                 <div class="date">Fresher</div> 
                 <div class="info">
-                     <p class="semi-bold">Currently i am work on IBM project "Skills/Job Recommendation"</p> 
+                     <p class="semi-bold">Currently i am work on IBM project "Skills/Job Recommendation" </p> 
                   
                 </div>
             </li>
+            
             <li>
               <div class="date">Mini Project</div>
               <div class="info">
@@ -179,8 +180,8 @@
             <li>
                 <div class="date">2018-2019</div> 
                 <div class="info">
-                     <p class="semi-bold">Valliammaiyar Girls Higher Secondary School</p> 
-                  <p>Percentage:69                    
+                     <p class="semi-bold">valliammaiyar girls Higher Secondary School</p> 
+                  <p>Percentage:67.16                    
                   </p>
                 </div>
             </li>
@@ -188,7 +189,7 @@
               <div class="date">2019-2023</div>
               <div class="info">
                      <p class="semi-bold">Vv College Of Engineering</p> 
-                  <p>CCGPA:8.26</p>
+                  <p>CCGPA:8.46</p>
                 </div>
             </li>
         </ul>
